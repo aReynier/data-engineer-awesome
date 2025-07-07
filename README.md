@@ -1,10 +1,51 @@
-# data-engineer-awesome
+# Awesome data engineer
 ✨ Bienvenue sur cet Awesome ✨
 
-Le but de ce dépôt est de rassembler des liens utiles dans le cadre d'un parcours de data engineer. Ceci est une initiative personnelle, mais toute contribution reste la bienvenue
+Le but de ce dépôt est de rassembler **uniquement des liens**, utiles dans le cadre d'un parcours de data engineer. Ceci est une initiative personnelle, mais toute contribution reste la bienvenue.
 
 ## Sommaire
-à venir
+### Data engineering
+- Github
+- bash
+- cron
+- Conception:
+    - Merise
+    - UML
+- Base de données:
+    - Généralités
+    - PostgreSQL
+    - HDFS
+    - MongoDB
+    - Apache Hive
+- Data warehouse
+- Data lake
+- Big data
+- SQL
+- Python
+- Hadoop
+- Spark
+- Extraction et transformation de données:
+    - Airbyte
+    - Talend
+- orchestration et déploiement:
+    - Docker
+    - Kubernetes
+    - Airflow
+    - Dagster
+- Cloud:
+    - Azure
+    - AWS
+    - CGP
+
+### Sujets connexes
+- Anglais professionnel
+- Feuille de calcul:
+    - Excel
+    - Google sheets
+- Machine learning
+- Intelligence artificielle
+- Mathématiques orientés data
+- Cybersécurité
 
 ## Comment contribuer ? 
 
