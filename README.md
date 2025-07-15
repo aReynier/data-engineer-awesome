@@ -33,6 +33,7 @@ Le but de ce dépôt est de rassembler **uniquement des liens**, utiles dans le 
     - [Kubernetes](/14_orchestrate_deploy/14_02_kubernetes.md)
     - [Airflow](/14_orchestrate_deploy/14_04_dagster.md)
     - [Dagster](/14_orchestrate_deploy/14_04_dagster.md)
+    - [CI/CD](/14_orchestrate_deploy/14_05_ci_cd.md)
 - Cloud:
     - [Azure](/15_cloud/15_01_aws.md)
     - [AWS](/15_cloud/15_02_azure.md)
@@ -43,10 +44,9 @@ Le but de ce dépôt est de rassembler **uniquement des liens**, utiles dans le 
 - Feuille de calcul:
     - [Excel](/17_spreadsheet/17_01_excel.md)
     - [Google sheets](/17_spreadsheet/17_01_google_sheets.md)
-- [Machine learning](/18_machine_learning/18_01_machine_learning.md)
-- [Intelligence artificielle](/19_ia/19_01_ia.md)
-- [Mathématiques orientés data](/20_data_math/20_01_data_math.md)
-- [Cybersécurité](/21_cybersecurity/21_01_cybersecurity.md)
+- [Intelligence artificielle](/18_ia/18_01_ia.md)
+- [Mathématiques orientés data](/19_data_math/19_01_data_math.md)
+- [Cybersécurité](/20_cybersecurity/20_01_cybersecurity.md)
 
 ## Comment contribuer ? 
 
